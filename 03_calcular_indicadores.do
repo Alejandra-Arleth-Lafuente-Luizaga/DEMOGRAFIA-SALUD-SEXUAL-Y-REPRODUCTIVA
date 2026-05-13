@@ -2,12 +2,6 @@ capture restore
 clear all
 set more off
 
-////////////////////////////////////////////////////////////////////////////////
-//                                                                            //
-//          INSTITUTO DE INVESTIGACIONES SOCIO-ECONÓMICAS IISEC               //
-//                                                                            //
-////////////////////////////////////////////////////////////////////////////////
-
 ** PROYECTO:
 **     Automatización de indicadores de Demografía, Salud Sexual y Reproductiva
 
