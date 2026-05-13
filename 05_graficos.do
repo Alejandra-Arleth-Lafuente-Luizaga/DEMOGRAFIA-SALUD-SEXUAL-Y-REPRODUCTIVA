@@ -1,12 +1,6 @@
 clear all
 set more off
 
-////////////////////////////////////////////////////////////////////////////////
-//                                                                            //
-//          INSTITUTO DE INVESTIGACIONES SOCIO-ECONÓMICAS IISEC               //
-//                                                                            //
-////////////////////////////////////////////////////////////////////////////////
-
 **  PROYECTO:                  INDICADORES DE DEMOGRAFÍA, SALUD SEXUAL Y REPRODUCTIVA
 **  IDENTIFICADOR:             grap_demografía_salud_sexual_y_reproductiva.do
 **  AUTOR:                     ALEJANDRA ARLETH LAFUENTE LUIZAGA
