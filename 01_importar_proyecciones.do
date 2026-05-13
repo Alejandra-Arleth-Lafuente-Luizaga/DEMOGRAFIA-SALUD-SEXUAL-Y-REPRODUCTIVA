@@ -1,12 +1,6 @@
 clear all
 set more off
 
-////////////////////////////////////////////////////////////////////////////////
-//                                                                            //
-//          INSTITUTO DE INVESTIGACIONES SOCIO-ECONÓMICAS IISEC               //
-//                                                                            //
-////////////////////////////////////////////////////////////////////////////////
-
 **  PROYECTO: 
 **			INDICADORES DE DEMOGRAFÍA, SALUD SEXUAL Y REPRODUCTIVA
 **            Automatización de indicadores de Demografía, Salud Sexual y Reproductiva
